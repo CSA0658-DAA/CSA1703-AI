@@ -1,0 +1,12 @@
+X=int(input(" Enter a number "))
+Y=int(input(" Enter a number "))
+add=X+Y
+print(" Addition of given two numbers is :",add)
+sub=X-Y
+print(" Subraction of given two numbers is :",sub)
+mul=X*Y
+print(" Multiplication of given two numbers is :",mul)
+div=X/Y
+print(" Divisionof given two numbers is :",div)
+mod=X%Y
+print(" Moduls of given two numbers is :",mod)
